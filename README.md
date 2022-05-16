@@ -1,2 +1,2 @@
 # simple_shell
-An ALX project on shell
+An ALX project on shell.
